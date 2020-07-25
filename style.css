@@ -1,0 +1,57 @@
+*{
+    margin: 0 0px;
+    padding: 0;
+    background-color:rgba(43, 24, 6, 0.555);
+}
+
+.fmain{
+    color: coral;
+    font-family: cursive;
+    text-align: center;
+    margin: 10px auto;
+    text-decoration-color: none;
+    background-color: none;
+
+
+}
+
+
+li, .navbar{
+    list-style-type: none;
+    margin: auto;
+
+    text-align: center;
+
+    
+}
+.navbar{
+    margin: 10px auto;
+    list-style: none;
+
+}
+ul,a{
+    display: inline-block;
+    background-color: burlywood;
+    margin: 10px 5px ;
+    height: 40;
+    width: 140px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: rgb(5, 42, 90);
+    text-align: auto;
+
+}
+
+.btn{
+    margin: 5px 25px;
+    float: left;
+    padding: 10px 30px ;
+    color: rgb(237, 247, 154);
+    background-color: rgb(15, 54, 42);
+    align-content: center;
+    text-align: center;
+    width: 150px;
+    height: 30px;
+
+}
